@@ -1,0 +1,1 @@
+// NES used Ricoh 2A03 microprocessor, which is essentially a clone of the MOS 6502 microprocessor
