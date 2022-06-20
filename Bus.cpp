@@ -8,3 +8,4 @@
 * Disabled APU and I/O functionality (0x4018 - 0x401F)
 * Cartridge space: PRG ROM, PRG RAM, mappers (0x4020 - oxFFFF)
 */ 
+#include <cstdint>
