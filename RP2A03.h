@@ -35,3 +35,4 @@ uint8_t AND();             // Absolute indexed indirect addressing
 uint8_t IND();             // Indirect indexed addressing
 uint8_t ZPG();             // Zero page indirect addressing
 uint8_t ABI();             // Absolute indirect addressing
+
