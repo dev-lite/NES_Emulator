@@ -30,9 +30,10 @@ uint8_t ABY();             // Absolute indexed addressing (Y index register)
 uint8_t ZPX();             // Zero page indexed addressing (X index register)
 uint8_t ZPY();             // Zero page indexed addressing (Y index register)
 uint8_t REL();             // Relative addressing
-uint8_t ZIN();             // Zero page indexed indirect addressing
-uint8_t AND();             // Absolute indexed indirect addressing
-uint8_t IND();             // Indirect indexed addressing
-uint8_t ZPG();             // Zero page indirect addressing
+//uint8_t ZIN();             // Zero page indexed indirect addressing
+//uint8_t AND();             // Absolute indexed indirect addressing
+uint8_t INX();             // Indirect X addressing
+uint8_t INY();             // Indirect Y addressing
+//uint8_t ZPG();             // Zero page indirect addressing
 uint8_t ABI();             // Absolute indirect addressing
 
